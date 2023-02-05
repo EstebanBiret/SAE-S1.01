@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Menu
+comment1.params=pfBorneInf\ pfBorneSup\ pfMessage
+comment1.target=int\ saisieIntC(int,\ int,\ java.lang.String)
+comment1.text=\ \ permet\ de\ retourner\ une\ valeur\ entiere\ saisie\ au\ clavier\ comprise\ entre\ pfBorneInf\ et\ pfBorneSup\r\n@param\ pfBorneSup\ In\ la\ borne\ sup\r\n@param\ pfBorneInf\ In\ la\ borne\ inf\r\n@param\ pfMessage\ In\ message\ \u00E0\ afficher\r\n@return\ valeur\ entiere\ comprise\ entre\ pfBorneInf\ et\ pfBorneSup\r\n
+comment2.params=
+comment2.target=void\ afficherPromo()
+comment3.params=
+comment3.target=void\ traiterChoix1()
+comment4.params=
+comment4.target=void\ testMenu()
+comment4.text=affiche\ le\ menu\ et\ ex\u00E9cute\ les\ choix...*
+comment5.params=arguments
+comment5.target=void\ main(java.lang.String[])
+numComments=6
